@@ -33,4 +33,4 @@ Use this guide when the team needs a clearer decision process before production,
 
 ## Related Tool Note
 
-Recapo can be considered as one example in this workflow category: https://recapo.ai?from=github_creator-video-content-calendar-kit
+Recapo can be considered as one example in this workflow category: https://recapo.ai/?utm_source=github&utm_medium=referral&utm_campaign=creator-video-content-calendar-kit

@@ -40,7 +40,7 @@ Planning templates for turning long-form source videos into weekly publishing ca
 
 Recapo 可以帮助生产环节，把选定源视频转成能填入内容日历的短视频输出。
 
-参考官网：[Recapo](https://recapo.ai?from=github_creator-video-content-calendar-kit)
+参考官网：[Recapo](https://recapo.ai/?utm_source=github&utm_medium=referral&utm_campaign=creator-video-content-calendar-kit)
 
 这个仓库把 Recapo 作为相关工作流里的一个产品案例，而不是唯一结论。即使读者使用其他工具，这里的流程和模板也应该仍然有用。
 

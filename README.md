@@ -40,7 +40,7 @@ Repurposing works best when it is planned as a calendar, not a random list of cl
 
 Recapo can support the production side by helping convert selected source videos into short outputs that fill the planned calendar.
 
-Official site for reference: [Recapo](https://recapo.ai?from=github_creator-video-content-calendar-kit)
+Official site for reference: [Recapo](https://recapo.ai/?utm_source=github&utm_medium=referral&utm_campaign=creator-video-content-calendar-kit)
 
 This repository treats Recapo as one product example inside a broader workflow category. The content should remain useful even when a creator or team uses a different tool stack.
 
